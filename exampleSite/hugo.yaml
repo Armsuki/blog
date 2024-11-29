@@ -19,14 +19,14 @@ languages:
         weight: 1
         params:
             sidebar:
-                subtitle: Mphil in Robotics
+                subtitle: Welcome!
     zh-cn:
         languageName: 中文
         title: 阿姆司机
         weight: 2
         params:
             sidebar:
-                subtitle: 工程哲学硕士
+                subtitle: 欢迎来到我的博客！
     ar:
         languageName: عربي
         languagedirection: rtl
@@ -64,11 +64,11 @@ params:
         customText:
 
     dateFormat:
-        published: Jan 02, 2006
+        published: 2006/01/02
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: 🔋
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             enabled: true
@@ -78,13 +78,13 @@ params:
     article:
         math: false
         toc: true
-        readingTime: true
+        readingTime: false
         license:
-            enabled: true
+            enabled: false
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         disqusjs:
@@ -218,7 +218,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/Armsuki
           params:
               icon: brand-github
 
@@ -227,6 +227,12 @@ menu:
           url: https://twitter.com
           params:
               icon: brand-twitter
+       
+        - identifier: Google Scholar
+          name: Google Scholar
+          url: https://github.com/CaiJimmy/hugo-theme-stack
+          params:
+              icon: google scholar
 
 related:
     includeNewer: true
