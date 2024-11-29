@@ -19,7 +19,7 @@ languages:
         weight: 1
         params:
             sidebar:
-                subtitle: Robotics Reasearcher
+                subtitle: Robotics Researcher
     zh-cn:
         languageName: 中文
         title: 阿姆司机

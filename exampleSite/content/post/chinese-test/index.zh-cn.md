@@ -1,6 +1,6 @@
 ---
-title: 欢迎来到我的博客！
-description: 最初说明
+title: 使用指南
+description: 欢迎来到我的博客！
 date: 2020-09-09
 slug: test-chinese
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
