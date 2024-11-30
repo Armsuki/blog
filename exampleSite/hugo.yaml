@@ -19,7 +19,7 @@ languages:
         weight: 1
         params:
             sidebar:
-                subtitle: Welcome!
+                subtitle: Welcome to my blog!
     zh-cn:
         languageName: 中文
         title: 阿姆司机
@@ -65,7 +65,7 @@ params:
 
     dateFormat:
         published: 2006/01/02
-        #lastUpdated: Jan 02, 2006 15:04 MST
+        lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
         emoji: 🔋
