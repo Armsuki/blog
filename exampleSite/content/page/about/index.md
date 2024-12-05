@@ -1,13 +1,13 @@
 ---
 title: About
 description: Sun Yue - 
-date: '2024-01-28'
-aliases: Armsuki
+#date: '2024-01-28'
+aliases: 
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-#lastmod: '2020-10-09'
+lastmod: '2025-01-12'
 menu:
     main: 
         weight: -90
